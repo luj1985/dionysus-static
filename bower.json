@@ -1,0 +1,8 @@
+{
+  "name": "dionysus-static",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "materialize": "~0.95.3"
+  }
+}
