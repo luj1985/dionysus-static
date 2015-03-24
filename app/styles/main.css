@@ -12,12 +12,13 @@ main {
 
 
 #index-banner {
-  height: 100%;
+  min-height: 100%;
 }
 
 #building {
-  margin-top: 150px;
+  margin-top: 100px;
   color: #FCFCFC;
+  font-size: 20px;
 }
 
 #about {
