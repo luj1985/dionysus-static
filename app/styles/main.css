@@ -5,17 +5,23 @@ html, body, main {
 main {
   display: block;
 }
-#index-banner {
-  background-color: #9e429a;
-  color: white;
+#index-banner, #about-banner {
+  background-color: #b570b4;
+  color: #FCFCFC;
 }
 
-#index-banner, #building {
+
+#index-banner {
   height: 100%;
 }
 
+#building {
+  margin-top: 150px;
+  color: #FCFCFC;
+}
+
 #about {
-  background-color: #b570b4;
+  background-color: #D1A5D1;
   width: 260px;
   height: 70px;
   line-height: 70px;
